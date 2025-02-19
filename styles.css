@@ -56,7 +56,7 @@
     font-weight: bolder;
 }
 .section-one{
-    background-image: url("/images/car.jpg");
+    background-image: url("images/car.jpg");
     --f: 1.15; /* the scale factor */
     clip-path: inset(0);
     transition: .4s;
@@ -124,38 +124,38 @@
     margin: 100px;
 }
 .grid-img1{
-    background: url("/images/grid1");
+    background: url("images/grid1");
     --f: 1.15; /* the scale factor */
     clip-path: inset(0);
     transition: .4s;
 }
 .grid-img2{
-    background: url("/images/grid2");
+    background: url("images/grid2");
     --f: 1.15; /* the scale factor */
     clip-path: inset(0);
     transition: .4s;
 }
 .grid-img3{
-    background: url("/images/grid3");
+    background: url("images/grid3");
     --f: 1.15; /* the scale factor */
     clip-path: inset(0);
     transition: .4s;
 }
 .grid-img4{
-    background: url("/images/grid4");
+    background: url("images/grid4");
     background-size: 100%;
     --f: 1.15; /* the scale factor */
     clip-path: inset(0);
     transition: .4s;
 }
 .grid-img5{
-    background: url("/images/grid5");
+    background: url("images/grid5");
     --f: 1.15; /* the scale factor */
     clip-path: inset(0);
     transition: .4s;
 }
 .grid-img6{
-    background: url("/images/grid6");
+    background: url("images/grid6");
     --f: 1.15; /* the scale factor */
     clip-path: inset(0);
     transition: .4s;
@@ -180,22 +180,22 @@
     gap: 30px;
 }
 .flex-img1{
-    background: url("/images/flex1");
+    background: url("images/flex1");
     padding: 5px;
     background-size: 100%;
 }
 .flex-img2{
-    background: url("/images/flex2");
+    background: url("images/flex2");
     padding: 5px;
     background-size: 100%;
 }
 .flex-img3{
-    background: url("/images/flex3");
+    background: url("images/flex3");
     padding: 5px;
     background-size: 100%;
 }
 .flex-img4{
-    background: url("/images/flex4.jpg");
+    background: url("images/flex4.jpg");
     padding: 5px;
     background-size: 100%;
 }
